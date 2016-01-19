@@ -2,7 +2,7 @@
 layout: post
 title: "Invisibility"
 date: 2015-06-07
-tags: [bard, sorcerer, warlock, wizard, level2]
+tags: [bard, sorcerer, warlock, wizard, level2, zedd]
 ---
 
 **2nd-level illusion**

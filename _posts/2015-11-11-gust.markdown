@@ -2,7 +2,7 @@
 layout: post
 title:  "Gust"
 date:   2015-11-11
-tags: [druid, sorcerer, wizard, cantrip]
+tags: [druid, sorcerer, wizard, cantrip, glix]
 ---
 
 **Transmutation cantrip**
