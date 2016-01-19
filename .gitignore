@@ -3,3 +3,5 @@ _site/
 _drafts/
 grimoire.sublime*
 .sass-cache/
+.idea
+*.iml
