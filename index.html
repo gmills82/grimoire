@@ -20,7 +20,7 @@ layout: default
       {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
       {% for post in post_list %}
         <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}.html">{{ post.title }}</a>
         </li>
       {% endfor %}
     </ul>
