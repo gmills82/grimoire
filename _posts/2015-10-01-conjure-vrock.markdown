@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conjure Shadow Demon"
+title:  "Conjure Vrock"
 date:   2015-01-01
 tags: [wizard, sorcerer, level5]
 ---
