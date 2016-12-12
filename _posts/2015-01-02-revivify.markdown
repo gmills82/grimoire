@@ -5,7 +5,7 @@ date:   2015-01-02
 tags: [cleric, paladin, level3]
 ---
 
-**3rd-level conjuration**
+**3rd-level necromancy**
 
 **Casting Time**: 1 action
 

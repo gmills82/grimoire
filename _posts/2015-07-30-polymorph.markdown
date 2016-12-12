@@ -25,3 +25,5 @@ As long as the excess damage doesn't reduce the creature's normal form to 0 hit 
 The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech. 
 
 The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
+
+**Player's Handbook Errata** Polymorph (p. 266). This spell can’t affect a target that has 0 hit points.

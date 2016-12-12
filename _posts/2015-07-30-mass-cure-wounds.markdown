@@ -5,7 +5,7 @@ date: 2015-07-30
 tags: [bard, cleric, druid, level5]
 ---
 
-**5th-level conjuration**
+**5th-level evocation**
 
 **Casting Time**: 1 action
 
