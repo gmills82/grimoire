@@ -2,7 +2,7 @@
 layout: post
 title:  "Conjure Shadow Demon"
 date:   2015-01-01
-tags: [wizard, sorceror, level5]
+tags: [wizard, sorcerer, level5]
 ---
 
 **5th-level conjuration**

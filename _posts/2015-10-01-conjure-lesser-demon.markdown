@@ -2,7 +2,7 @@
 layout: post
 title:  "Conjure Lesser Demon"
 date: 2015-01-01
-tags: [wizard, sorceror, level3]
+tags: [wizard, sorcerer, level3]
 ---
 
 **3rd-level conjuration**

@@ -2,7 +2,7 @@
 layout: post
 title:  "Conjure Hezrou"
 date:   2015-01-01
-tags: [wizard, sorceror, level7]
+tags: [wizard, sorcerer, level7]
 ---
 
 **7th-level conjuration**
