@@ -2,7 +2,7 @@
 layout: post
 title:  "Minor Illusion"
 date:   2014-08-24
-tags: [bard, sorcerer, warlock, wizard, cantrip, zedd]
+tags: [bard, sorcerer, warlock, wizard, cantrip, zedd, sol]
 ---
 
 **Illusion cantrip**

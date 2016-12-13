@@ -2,7 +2,7 @@
 layout: post
 title:  "Burning Hands"
 date:   2014-08-24
-tags: [sorcerer, wizard, level1, zedd]
+tags: [sorcerer, wizard, level1, zedd, sol]
 ---
 
 **1st-level evocation**

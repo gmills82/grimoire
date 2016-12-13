@@ -2,7 +2,7 @@
 layout: post
 title:  "Unseen Servant"
 date:   2014-08-24
-tags: [bard, warlock, wizard, level1, zedd]
+tags: [bard, warlock, wizard, level1, zedd, sol]
 ---
 
 **1st-level conjuration (ritual)**

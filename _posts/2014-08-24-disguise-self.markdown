@@ -2,7 +2,7 @@
 layout: post
 title:  "Disguise Self"
 date:   2014-08-24
-tags: [bard, cleric (trickery), sorcerer, wizard, level1, zedd]
+tags: [bard, cleric (trickery), sorcerer, wizard, level1, zedd, sol]
 ---
 
 **1st-level illusion**

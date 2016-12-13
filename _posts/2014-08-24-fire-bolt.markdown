@@ -2,7 +2,7 @@
 layout: post
 title:  "Fire Bolt"
 date:   2015-01-07
-tags: [sorcerer, wizard, cantrip, zedd]
+tags: [sorcerer, wizard, cantrip, zedd, sol]
 ---
 
 **Evocation cantrip**
