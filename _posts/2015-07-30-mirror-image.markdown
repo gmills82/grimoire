@@ -2,7 +2,7 @@
 layout: post
 title: "Mirror Image"
 date: 2015-07-30
-tags: [sorcerer, warlock, wizard, level2]
+tags: [sorcerer, warlock, wizard, level2, sol]
 ---
 
 **2nd-level illusion**

@@ -2,7 +2,7 @@
 layout: post
 title:  "Chromatic Orb"
 date:   2014-08-24
-tags: [sorcerer, wizard, level1]
+tags: [sorcerer, wizard, level1, sol]
 ---
 
 **1st-level evocation**
