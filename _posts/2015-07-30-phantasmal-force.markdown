@@ -2,7 +2,7 @@
 layout: post
 title: "Phantasmal Force"
 date: 2015-07-30
-tags: [bard, sorcerer, wizard, level2]
+tags: [bard, sorcerer, wizard, level2, sol]
 ---
 
 **2nd-level illusion**
