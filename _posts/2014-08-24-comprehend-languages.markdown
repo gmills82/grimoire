@@ -2,7 +2,7 @@
 layout: post
 title:  "Comprehend Languages"
 date:   2014-08-24
-tags: [bard, sorcerer, warlock, wizard, level1, zedd, sol]
+tags: [bard, sorcerer, warlock, wizard, level1, zedd, sol, ander]
 ---
 
 **1st-level divination (ritual)**
