@@ -2,7 +2,7 @@
 layout: post
 title:  "Animate Dead"
 date:   2015-01-01
-tags: [cleric, wizard, level3]
+tags: [cleric, wizard, level3, ander]
 ---
 
 **3rd-level necromancy**
