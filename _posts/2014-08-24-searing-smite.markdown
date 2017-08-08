@@ -3,7 +3,7 @@ layout: post
 title:  "Searing Smite"
 date:   2014-08-24
 tags: [paladin, level1]
-spellmeta: [concentration]
+spellmeta: [concentration, bonus]
 ---
 
 **1st-level evocation**

@@ -3,7 +3,7 @@ layout: post
 title: "Grasping Vine"
 date: 2015-07-30
 tags: [ranger, druid, level4]
-spellmeta: [concentration]
+spellmeta: [concentration, bonus]
 ---
 
 **4th-level conjuration**

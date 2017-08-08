@@ -3,7 +3,7 @@ layout: post
 title: "Staggering Smite"
 date: 2015-07-30
 tags: [paladin, level4]
-spellmeta: [concentration]
+spellmeta: [concentration, bonus]
 ---
 
 **4th-level evocation**

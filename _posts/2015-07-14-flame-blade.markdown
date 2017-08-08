@@ -3,7 +3,7 @@ layout: post
 title: "Flame Blade"
 date: 2015-07-14
 tags: [druid, level2]
-spellmeta: [concentration]
+spellmeta: [concentration, bonus]
 ---
 
 **2nd-level evocation**

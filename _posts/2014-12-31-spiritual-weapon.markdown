@@ -3,6 +3,7 @@ layout: post
 title:  "Spiritual Weapon"
 date:   2014-12-31
 tags: [cleric, level2]
+spellmeta: [bonus]
 ---
 
 **2nd-level evocation**

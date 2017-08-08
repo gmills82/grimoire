@@ -3,6 +3,7 @@ layout: post
 title:  "Divine Word"
 date:   2015-01-11
 tags:   [cleric, level7]
+spellmeta: [bonus]
 ---
 
 **7th-level evocation**

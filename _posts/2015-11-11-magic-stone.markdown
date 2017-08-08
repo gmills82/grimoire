@@ -3,6 +3,7 @@ layout: post
 title:  "Magic Stone"
 date:   2015-11-11
 tags: [druid, warlock, cantrip]
+spellmeta: [bonus]
 ---
 
 **Transmutation cantrip**

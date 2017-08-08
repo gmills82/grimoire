@@ -3,6 +3,7 @@ layout: post
 title:  "Sanctuary"
 date:   2014-08-24
 tags: [cleric, level1]
+spellmeta: [bonus]
 ---
 
 **1st-level abjuration**

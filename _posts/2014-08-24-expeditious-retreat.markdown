@@ -3,7 +3,7 @@ layout: post
 title:  "Expeditious Retreat"
 date:   2014-08-24
 tags: [sorcerer, warlock, wizard, level1, glix, reznor]
-spellmeta: [concentration]
+spellmeta: [concentration, bonus]
 ---
 
 **1st-level transmutation**

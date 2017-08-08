@@ -3,7 +3,7 @@ layout: post
 title: "Banishing Smite"
 date: 2015-07-14
 tags: [paladin, level5]
-spellmeta: [concentration]
+spellmeta: [concentration, bonus]
 ---
 
 **5th-level abjuration**

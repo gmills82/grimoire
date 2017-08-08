@@ -3,7 +3,7 @@ layout: post
 title: "Magic Weapon"
 date: 2015-07-30
 tags: [paladin, wizard, level2]
-spellmeta: [concentration]
+spellmeta: [concentration, bonus]
 ---
 
 **2nd-level transmutation**

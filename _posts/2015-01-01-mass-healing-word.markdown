@@ -3,6 +3,7 @@ layout: post
 title:  "Mass Healing Word"
 date:   2015-01-01
 tags: [cleric, level3]
+spellmeta: [bonus]
 ---
 
 **3rd-level evocation**

@@ -3,7 +3,7 @@ layout: post
 title: "Swift Quiver"
 date: 2015-07-30
 tags: [ranger, level5]
-spellmeta: [concentration]
+spellmeta: [concentration, bonus]
 ---
 
 **5th-level transmutation**

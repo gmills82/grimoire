@@ -3,7 +3,7 @@ layout: post
 title:  "Hunter's Mark"
 date:   2014-08-24
 tags: [ranger, level1]
-spellmeta: [concentration]
+spellmeta: [concentration, bonus]
 ---
 
 **1st-level divination**

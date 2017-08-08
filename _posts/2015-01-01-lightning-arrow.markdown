@@ -3,7 +3,7 @@ layout: post
 title:  "Lightning Arrow"
 date:   2015-01-01
 tags: [ranger, level3]
-spellmeta: [concentration]
+spellmeta: [concentration, bonus]
 ---
 
 **3rd-level transmutation**
