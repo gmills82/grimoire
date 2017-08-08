@@ -3,6 +3,7 @@ layout: post
 title:  "Absorb Elements"
 date:   2015-11-12
 tags: [druid, ranger, wizard, level1]
+spellmeta: [reaction]
 ---
 
 **1st-level abjuration**

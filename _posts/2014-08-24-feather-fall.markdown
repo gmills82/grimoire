@@ -3,6 +3,7 @@ layout: post
 title:  "Feather Fall"
 date:   2014-08-24
 tags: [bard, sorcerer, wizard, level1]
+spellmeta: [reaction]
 ---
 
 **1st-level transmutation**

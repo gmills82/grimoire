@@ -3,6 +3,7 @@ layout: post
 title:  "Counterspell"
 date:   2015-01-01
 tags: [sorcerer, warlock, wizard, level3]
+spellmeta: [reaction]
 ---
 
 **3rd-level abjuration**

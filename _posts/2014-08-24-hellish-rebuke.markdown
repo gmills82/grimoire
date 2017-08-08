@@ -3,6 +3,7 @@ layout: post
 title:  "Hellish Rebuke"
 date:   2014-08-24
 tags: [warlock, level1]
+spellmeta: [reaction]
 ---
 
 **1st-level evocation**
