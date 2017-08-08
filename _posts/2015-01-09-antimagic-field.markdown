@@ -3,6 +3,7 @@ layout: post
 title:  "Antimagic Field"
 date:   2015-01-09
 tags: [cleric, wizard, level8]
+spellmeta: [concentration]
 ---
 
 **8th-level abjuration**

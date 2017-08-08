@@ -3,6 +3,7 @@ layout: post
 title:  "Control Weather"
 date:   2015-01-10
 tags:   [cleric, druid, wizard, level8]
+spellmeta: [concentration]
 ---
 
 **8th-level transmutation**

@@ -3,6 +3,7 @@ layout: post
 title: "Insect Plague"
 date: 2015-07-30
 tags: [cleric, druid, sorcerer, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level conjuration**

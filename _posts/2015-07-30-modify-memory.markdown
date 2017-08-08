@@ -3,6 +3,7 @@ layout: post
 title: "Modify Memory"
 date: 2015-07-30
 tags: [bard, wizard, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level enchantment**

@@ -3,6 +3,7 @@ layout: post
 title: "Wall of Force"
 date: 2015-07-30
 tags: [wizard, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level evocation**

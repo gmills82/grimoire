@@ -3,6 +3,7 @@ layout: post
 title:  "Delayed Blast Fireball"
 date:   2015-01-11
 tags:   [sorcerer, wizard, level7]
+spellmeta: [concentration]
 ---
 
 **7th-level evocation**

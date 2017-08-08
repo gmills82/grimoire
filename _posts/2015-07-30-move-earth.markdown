@@ -3,6 +3,7 @@ layout: post
 title: "Move Earth"
 date: 2015-07-30
 tags: [druid, sorcerer, wizard, level6]
+spellmeta: [concentration]
 ---
 
 **6th-level transmutation**

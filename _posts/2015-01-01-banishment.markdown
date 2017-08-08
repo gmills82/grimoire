@@ -3,6 +3,7 @@ layout: post
 title:  "Banishment"
 date:   2015-01-01
 tags: [cleric, paladin, sorcerer, warlock, wizard, level4, ander]
+spellmeta: [concentration]
 ---
 
 **4th-level abjuration**

@@ -3,6 +3,7 @@ layout: post
 title:  "Elemental Weapon"
 date:   2015-01-01
 tags: [paladin, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level transmutation**

@@ -3,6 +3,7 @@ layout: post
 title:  "True Polymorph"
 date:   2015-01-10
 tags:   [bard, warlock, wizard, level9]
+spellmeta: [concentration]
 ---
 
 **9th-level transmutation**

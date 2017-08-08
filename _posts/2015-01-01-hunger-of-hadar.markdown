@@ -3,6 +3,7 @@ layout: post
 title:  "Hunger of Hadar"
 date:   2015-01-01
 tags: [warlock, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level conjuration**

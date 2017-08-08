@@ -3,6 +3,7 @@ layout: post
 title:  "Beast Bond"
 date:   2015-11-12
 tags: [druid, ranger, level1]
+spellmeta: [concentration]
 ---
 
 **1st-level divination**

@@ -3,6 +3,7 @@ layout: post
 title: "Dominate Beast"
 date: 2015-07-14
 tags: [druid, sorcerer, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level enchantment**

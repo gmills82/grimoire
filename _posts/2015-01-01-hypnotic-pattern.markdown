@@ -3,6 +3,7 @@ layout: post
 title:  "Hypnotic Pattern"
 date:   2015-01-01
 tags: [bard, sorcerer, warlock, wizard, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level illusion**

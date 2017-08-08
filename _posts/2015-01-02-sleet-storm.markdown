@@ -3,6 +3,7 @@ layout: post
 title:  "Sleet Storm"
 date:   2015-01-02
 tags: [druid, sorcerer, wizard, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level conjuration**

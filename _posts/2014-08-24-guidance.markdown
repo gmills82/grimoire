@@ -3,6 +3,7 @@ layout: post
 title:  "Guidance"
 date:   2014-08-24
 tags: [cleric, druid, cantrip]
+spellmeta: [concentration]
 ---
 
 **Divination cantrip**

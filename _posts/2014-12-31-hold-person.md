@@ -3,6 +3,7 @@ layout: post
 title:  "Hold Person"
 date:   2014-12-31
 tags: [bard, cleric, druid, sorcerer, warlock, wizard, level2]
+spellmeta: [concentration]
 ---
 
 **2nd-level divination (ritual)**

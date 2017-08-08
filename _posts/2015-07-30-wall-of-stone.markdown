@@ -3,6 +3,7 @@ layout: post
 title: "Wall of Stone"
 date: 2015-07-30
 tags: [druid, sorcerer, wizard, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level evocation**

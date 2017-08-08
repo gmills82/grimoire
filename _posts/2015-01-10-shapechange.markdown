@@ -3,6 +3,7 @@ layout: post
 title:  "Shapechange"
 date:   2015-01-10
 tags:   [druid, wizard, level9]
+spellmeta: [concentration]
 ---
 
 **9th-level transmutation**

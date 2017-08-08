@@ -3,6 +3,7 @@ layout: post
 title: "Vampiric Touch"
 date: 2015-07-30
 tags: [warlock, wizard, level3, ander]
+spellmeta: [concentration]
 ---
 
 **3rd-level necromancy**

@@ -3,6 +3,7 @@ layout: post
 title:  "Control Water"
 date:   2015-01-05
 tags: [cleric, druid, wizard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level transmutation**

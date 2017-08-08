@@ -3,6 +3,7 @@ layout: post
 title: "Wind Wall"
 date: 2015-07-30
 tags: [druid, ranger, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level evocation**

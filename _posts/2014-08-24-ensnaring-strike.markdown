@@ -3,6 +3,7 @@ layout: post
 title:  "Ensnaring Strike"
 date:   2014-08-24
 tags: [ranger, level1]
+spellmeta: [concentration]
 ---
 
 **1st-level conjuration**

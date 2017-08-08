@@ -3,6 +3,7 @@ layout: post
 title:  "Flame Arrows"
 date:   2015-11-19
 tags: [druid, ranger, sorcerer, wizard, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level transmutation**

@@ -3,6 +3,7 @@ layout: post
 title:  "Warding Wind"
 date:   2015-08-31
 tags: [bard, druid, sorcerer, level2]
+spellmeta: [concentration]
 ---
 
 **2nd level evocation**

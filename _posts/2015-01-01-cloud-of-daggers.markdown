@@ -3,6 +3,7 @@ layout: post
 title:  "Cloud of Daggers"
 date:   2015-01-01
 tags: [bard, sorcerer, warlock, wizard, level2]
+spellmeta: [concentration]
 ---
 
 **2nd-level conjuration**

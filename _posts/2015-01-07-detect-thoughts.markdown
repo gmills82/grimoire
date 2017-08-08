@@ -3,6 +3,7 @@ layout: post
 title:  "Detect Thoughts"
 date:   2015-01-07
 tags: [bard, sorcerer, wizard, level2, zedd]
+spellmeta: [concentration]
 ---
 
 **2nd-level divination**

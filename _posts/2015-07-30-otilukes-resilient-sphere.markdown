@@ -3,6 +3,7 @@ layout: post
 title: "Otiluke's Resilient Sphere"
 date: 2015-07-30
 tags: [wizard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level evocation**

@@ -3,6 +3,7 @@ layout: post
 title: "Suggestion"
 date: 2015-05-11
 tags: [bard, sorcerer, warlock, wizard, level2, zedd]
+spellmeta: [concentration]
 ---
 
 **2nd-level enchantment**

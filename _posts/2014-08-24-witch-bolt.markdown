@@ -3,6 +3,7 @@ layout: post
 title:  "Witch Bolt"
 date:   2014-08-24
 tags: [sorcerer, warlock, wizard, level1, zedd]
+spellmeta: [concentration]
 ---
 
 **1st-level evocation**

@@ -3,6 +3,7 @@ layout: post
 title:  "Conjure Celestial"
 date:   2015-01-11
 tags:   [cleric, level7]
+spellmeta: [concentration]
 ---
 
 **7th-level conjuration**

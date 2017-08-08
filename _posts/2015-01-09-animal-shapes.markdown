@@ -3,6 +3,7 @@ layout: post
 title:  "Animal Shapes"
 date:   2015-01-09
 tags: [druid, level8]
+spellmeta: [concentration]
 ---
 
 **8th-level transmutation**

@@ -3,6 +3,7 @@ layout: post
 title:  "Wall of Water"
 date:   2015-11-19
 tags: [druid, sorcerer, wizard, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level evocation**

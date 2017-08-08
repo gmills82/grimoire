@@ -3,6 +3,7 @@ layout: post
 title:  "Earthbind"
 date:   2015-11-13
 tags: [druid, sorcerer, warlock, wizard, level2]
+spellmeta: [concentration]
 ---
 
 **2nd-level transmutation**

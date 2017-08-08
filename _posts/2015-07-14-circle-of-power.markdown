@@ -3,6 +3,7 @@ layout: post
 title: "Circle of Power"
 date: 2015-07-14
 tags: [paladin, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level abjuration**

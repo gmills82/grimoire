@@ -3,6 +3,7 @@ layout: post
 title:  "Investiture of Ice"
 date:   2015-11-19
 tags: [druid, sorcerer, warlock, wizard, level6]
+spellmeta: [concentration]
 ---
 
 **6th-level transmutation**

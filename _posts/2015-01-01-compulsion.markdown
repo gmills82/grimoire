@@ -3,6 +3,7 @@ layout: post
 title:  "Compulsion"
 date:   2015-01-01
 tags: [bard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level enchantment**

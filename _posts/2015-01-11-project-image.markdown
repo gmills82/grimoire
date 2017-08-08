@@ -3,6 +3,7 @@ layout: post
 title:  "Project Image"
 date:   2015-01-11
 tags:   [bard, wizard, level7]
+spellmeta: [concentration]
 ---
 
 **7th-level illusion**

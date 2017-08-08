@@ -3,6 +3,7 @@ layout: post
 title:  "Reverse Gravity"
 date:   2015-01-12
 tags:   [druid, sorcerer, wizard, level7]
+spellmeta: [concentration]
 ---
 
 **7th-level transmutation**

@@ -3,6 +3,7 @@ layout: post
 title: "Animate Objects"
 date: 2015-07-14
 tags: [bard, sorcerer, wizard, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level transformation**

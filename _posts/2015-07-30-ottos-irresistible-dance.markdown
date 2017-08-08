@@ -3,6 +3,7 @@ layout: post
 title: "Otto's Irresistible Dance"
 date: 2015-07-30
 tags: [bard, wizard, level6]
+spellmeta: [concentration]
 ---
 
 **6th-level enchantment**

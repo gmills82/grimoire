@@ -3,6 +3,7 @@ layout: post
 title:  "Confusion"
 date:   2015-01-05
 tags: [bard, druid, sorcerer, wizard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level enchantment**

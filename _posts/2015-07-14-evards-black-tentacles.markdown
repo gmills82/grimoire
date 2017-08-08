@@ -3,6 +3,7 @@ layout: post
 title:  "Evard's Black Tentacles"
 date:   2015-07-14
 tags: [wizard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level conjuration**

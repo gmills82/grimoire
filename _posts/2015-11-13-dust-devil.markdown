@@ -3,6 +3,7 @@ layout: post
 title:  "Dust Devil"
 date:   2015-11-13
 tags: [druid, sorcerer, wizard, level2, glix]
+spellmeta: [concentration]
 ---
 
 **2nd-level conjuration**

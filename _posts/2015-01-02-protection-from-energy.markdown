@@ -3,6 +3,7 @@ layout: post
 title:  "Protection from Energy"
 date:   2015-01-02
 tags: [cleric, druid, ranger, sorcerer, wizard, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level abjuration**

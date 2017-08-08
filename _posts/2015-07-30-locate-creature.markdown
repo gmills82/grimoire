@@ -3,6 +3,7 @@ layout: post
 title: "Locate Creature"
 date: 2015-07-30
 tags: [bard, cleric, druid, paladin, ranger, wizard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level divination**

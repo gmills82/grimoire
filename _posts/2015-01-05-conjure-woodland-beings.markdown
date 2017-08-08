@@ -3,6 +3,7 @@ layout: post
 title:  "Conjure Woodland Beings"
 date:   2015-01-05
 tags: [druid , ranger, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level conjuration**

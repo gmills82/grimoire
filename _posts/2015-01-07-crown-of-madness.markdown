@@ -3,6 +3,7 @@ layout: post
 title:  "Crown of Madness"
 date:   2015-01-07
 tags: [bard, sorcerer, warlock, wizard, level2]
+spellmeta: [concentration]
 ---
 
 **2nd-level enchantment**

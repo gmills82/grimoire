@@ -3,6 +3,7 @@ layout: post
 title:  "Bestow Curse"
 date:   2015-01-01
 tags: [bard, cleric, wizard, level3, ander]
+spellmeta: [concentration]
 ---
 
 **3rd-level necromancy**

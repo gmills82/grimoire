@@ -3,6 +3,7 @@ layout: post
 title: "Phantasmal Killer"
 date: 2015-07-30
 tags: [wizard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level illusion**

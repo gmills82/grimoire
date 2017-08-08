@@ -3,6 +3,7 @@ layout: post
 title:  "Compelled Duel"
 date:   2014-08-24
 tags: [paladin, level1]
+spellmeta: [concentration]
 ---
 
 **1st-level enchantment**

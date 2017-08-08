@@ -3,6 +3,7 @@ layout: post
 title:  "Gaseous Form"
 date:   2015-01-01
 tags: [sorcerer, wizard, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level transmutation**

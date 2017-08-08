@@ -3,6 +3,7 @@ layout: post
 title: "Invisibility"
 date: 2015-06-07
 tags: [bard, sorcerer, warlock, wizard, level2, zedd, sol]
+spellmeta: [concentration]
 ---
 
 **2nd-level illusion**

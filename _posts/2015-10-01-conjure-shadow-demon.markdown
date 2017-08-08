@@ -3,6 +3,7 @@ layout: post
 title:  "Conjure Shadow Demon"
 date:   2015-01-01
 tags: [wizard, sorcerer, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level conjuration**

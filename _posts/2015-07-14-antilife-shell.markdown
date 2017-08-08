@@ -3,6 +3,7 @@ layout: post
 title: "Antilife Shell"
 date: 2015-07-14
 tags: [druid, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level abjuration**

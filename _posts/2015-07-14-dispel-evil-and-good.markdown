@@ -3,6 +3,7 @@ layout: post
 title: "Dispel Evil and Good"
 date: 2015-07-14
 tags: [cleric, paladin, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level abjuration**

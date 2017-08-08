@@ -3,6 +3,7 @@ layout: post
 title: "Tree Stride"
 date: 2015-07-30
 tags: [druid, ranger, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level conjuration**

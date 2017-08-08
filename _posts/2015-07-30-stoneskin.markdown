@@ -3,6 +3,7 @@ layout: post
 title: "Stoneskin"
 date: 2015-07-30
 tags: [druid, sorcerer, ranger, wizard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level abjuration**

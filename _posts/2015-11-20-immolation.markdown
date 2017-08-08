@@ -3,6 +3,7 @@ layout: post
 title:  "Immolation"
 date:   2015-11-20
 tags: [sorcerer, wizard, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level evocation**

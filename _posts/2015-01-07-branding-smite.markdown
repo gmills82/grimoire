@@ -3,6 +3,7 @@ layout: post
 title:  "Branding Smite"
 date:   2015-01-07
 tags: [paladin, level2]
+spellmeta: [concentration]
 ---
 
 **2nd-level evocation**

@@ -3,6 +3,7 @@ layout: post
 title: "Mislead"
 date: 2015-07-30
 tags: [bard, wizard, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level illusion**

@@ -3,6 +3,7 @@ layout: post
 title:  "Beacon of Hope"
 date:   2015-01-01
 tags: [cleric, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level abjuration**

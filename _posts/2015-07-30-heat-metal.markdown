@@ -3,6 +3,7 @@ layout: post
 title: "Heat Metal"
 date: 2015-07-30
 tags: [druid, bard, level2]
+spellmeta: [concentration]
 ---
 
 **2nd-level transmutation**

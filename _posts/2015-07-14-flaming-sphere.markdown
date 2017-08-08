@@ -3,6 +3,7 @@ layout: post
 title: "Flaming Sphere"
 date: 2015-07-14
 tags: [druid, wizard, level2]
+spellmeta: [concentration]
 ---
 
 **2nd-level conjuration**

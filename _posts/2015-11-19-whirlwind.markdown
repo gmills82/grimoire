@@ -3,6 +3,7 @@ layout: post
 title:  "Whirlwind"
 date:   2015-11-19
 tags: [druid, wizard, level7]
+spellmeta: [concentration]
 ---
 
 **7th-level evocation**

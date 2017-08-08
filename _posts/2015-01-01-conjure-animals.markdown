@@ -3,6 +3,7 @@ layout: post
 title:  "Conjure Animals"
 date:   2015-01-01
 tags: [druid, ranger, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level conjuration**

@@ -3,6 +3,7 @@ layout: post
 title:  "Arcane Eye"
 date:   2015-01-01
 tags: [wizard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level divination**

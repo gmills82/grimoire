@@ -3,6 +3,7 @@ layout: post
 title:  "Conjure Minor Elementals"
 date:   2015-01-05
 tags: [druid, wizard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level conjuration**

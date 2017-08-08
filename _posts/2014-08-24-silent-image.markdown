@@ -3,6 +3,7 @@ layout: post
 title:  "Silent Image"
 date:   2014-08-24
 tags: [bard, sorcerer, wizard, level1, zedd, sol, ander]
+spellmeta: [concentration]
 ---
 
 **1st-level illusion**

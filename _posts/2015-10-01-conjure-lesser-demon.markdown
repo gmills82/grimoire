@@ -3,6 +3,7 @@ layout: post
 title:  "Conjure Lesser Demon"
 date: 2015-01-01
 tags: [wizard, sorcerer, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level conjuration**

@@ -3,6 +3,7 @@ layout: post
 title: "Conjure Fey"
 date: 2015-07-14
 tags: [druid, warlock, level6]
+spellmeta: [concentration]
 ---
 
 **6th-level conjuration**

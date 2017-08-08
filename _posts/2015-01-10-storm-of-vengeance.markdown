@@ -3,6 +3,7 @@ layout: post
 title:  "Storm of Vengeance"
 date:   2015-01-10
 tags:   [druid, level9]
+spellmeta: [concentration]
 ---
 
 **9th-level conjuration**

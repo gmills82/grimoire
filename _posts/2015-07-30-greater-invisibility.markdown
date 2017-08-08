@@ -3,6 +3,7 @@ layout: post
 title: "Greater Invisibility"
 date: 2015-07-30
 tags: [sorcerer, wizard, bard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level illusion**

@@ -3,6 +3,7 @@ layout: post
 title:  "Stinking Cloud"
 date:   2015-01-02
 tags: [bard, sorcerer, wizard, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level conjuration**

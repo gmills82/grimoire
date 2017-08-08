@@ -3,6 +3,7 @@ layout: post
 title:  "Spirit Guardians"
 date:   2015-01-02
 tags: [cleric, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level conjuration**

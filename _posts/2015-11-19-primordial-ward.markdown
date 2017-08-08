@@ -3,6 +3,7 @@ layout: post
 title:  "Primordial Ward"
 date:   2015-11-19
 tags: [druid, level6]
+spellmeta: [concentration]
 ---
 
 **6th-level abjuration**

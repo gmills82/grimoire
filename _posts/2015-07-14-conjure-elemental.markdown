@@ -3,6 +3,7 @@ layout: post
 title: "Conjure Elemental"
 date: 2015-07-14
 tags: [druid, wizard, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level conjuration**

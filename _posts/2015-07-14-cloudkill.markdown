@@ -3,6 +3,7 @@ layout: post
 title: "Cloudkill"
 date: 2015-07-14
 tags: [sorcerer, wizard, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level conjuration**

@@ -3,6 +3,7 @@ layout: post
 title: "Locate Object"
 date: 2015-07-30
 tags: [bard, cleric, druid, paladin, ranger, wizard, level2]
+spellmeta: [concentration]
 ---
 
 **2nd-level divination**

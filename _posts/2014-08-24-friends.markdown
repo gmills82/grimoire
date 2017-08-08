@@ -3,6 +3,7 @@ layout: post
 title:  "Friends"
 date:   2014-08-24
 tags: [bard, sorcerer, warlock, wizard, cantrip, zedd]
+spellmeta: [concentration]
 ---
 
 **Enchantment cantrip**

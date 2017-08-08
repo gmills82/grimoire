@@ -3,6 +3,7 @@ layout: post
 title:  "Wall of Sand"
 date:   2015-11-22
 tags: [wizard, level3]
+spellmeta: [concentration]
 ---
 
 **3rd-level evocation**

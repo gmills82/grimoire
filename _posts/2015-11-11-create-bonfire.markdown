@@ -3,6 +3,7 @@ layout: post
 title:  "Create Bonfire"
 date:   2015-11-11
 tags: [druid, sorcerer, warlock, wizard, cantrip]
+spellmeta: [concentration]
 ---
 
 **Conjuration cantrip**

@@ -3,6 +3,7 @@ layout: post
 title:  "Detect Evil and Good"
 date:   2014-08-24
 tags: [cleric, paladin, level1]
+spellmeta: [concentration]
 ---
 
 **1st-level divination**

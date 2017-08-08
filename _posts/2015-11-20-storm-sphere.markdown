@@ -3,6 +3,7 @@ layout: post
 title:  "Storm Sphere"
 date:   2015-11-20
 tags: [sorcerer, wizard, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level evocation**

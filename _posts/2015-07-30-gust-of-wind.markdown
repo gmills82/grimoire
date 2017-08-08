@@ -3,6 +3,7 @@ layout: post
 title: "Gust of Wind"
 date: 2015-07-30
 tags: [sorcerer, wizard, druid, level2]
+spellmeta: [concentration]
 ---
 
 **2nd-level evocation**

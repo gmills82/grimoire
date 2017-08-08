@@ -3,6 +3,7 @@ layout: post
 title:  "Control Winds"
 date:   2015-11-19
 tags: [druid, sorcerer, wizard, level5]
+spellmeta: [concentration]
 ---
 
 **5th-level transmutation**

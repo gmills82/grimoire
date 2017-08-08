@@ -3,6 +3,7 @@ layout: post
 title: "Giant Insect"
 date: 2015-07-30
 tags: [druid, level4]
+spellmeta: [concentration]
 ---
 
 **4th-level transmutation**

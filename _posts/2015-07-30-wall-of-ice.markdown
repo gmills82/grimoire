@@ -3,6 +3,7 @@ layout: post
 title: "Wall of Ice"
 date: 2015-07-30
 tags: [wizard, level6]
+spellmeta: [concentration]
 ---
 
 **6th-level evocation**

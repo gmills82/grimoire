@@ -3,6 +3,7 @@ layout: post
 title: "Spike Growth"
 date: 2015-07-30
 tags: [druid, ranger, level2]
+spellmeta: [concentration]
 ---
 
 **2nd-level transmutation**

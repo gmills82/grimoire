@@ -1,0 +1,8 @@
+- name: concentration
+  abbreviation: C
+- name: ritual
+  abbreviation: Rit
+- name: bonus
+  abbreviation: BA
+- name: reaction
+  abbreviation: React

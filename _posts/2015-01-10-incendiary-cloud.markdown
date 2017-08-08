@@ -3,6 +3,7 @@ layout: post
 title:  "Incendiary Cloud"
 date:   2015-01-10
 tags:   [sorcerer, wizard, level8]
+spellmeta: [concentration]
 ---
 
 **8th-level conjuration**

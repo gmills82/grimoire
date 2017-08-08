@@ -3,6 +3,7 @@ layout: post
 title:  "Conjure Hezrou"
 date:   2015-01-01
 tags: [wizard, sorcerer, level7]
+spellmeta: [concentration]
 ---
 
 **7th-level conjuration**

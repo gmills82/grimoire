@@ -3,6 +3,7 @@ layout: post
 title:  "Gate"
 date:   2015-01-10
 tags:   [cleric, sorcerer, wizard, level9]
+spellmeta: [concentration]
 ---
 
 **9th-level conjuration**
