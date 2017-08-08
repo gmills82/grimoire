@@ -3,6 +3,7 @@ layout: post
 title: "Water Walk"
 date: 2015-07-30
 tags: [cleric, druid, ranger, sorcerer, level2]
+spellmeta: [ritual]
 ---
 
 **3rd-level transmutation (ritual)**

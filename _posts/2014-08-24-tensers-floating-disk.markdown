@@ -3,6 +3,7 @@ layout: post
 title:  "Tenser's Floating Disk"
 date:   2014-08-24
 tags: [wizard, level1]
+spellmeta: [ritual]
 ---
 
 **1st-level conjuration (ritual)**

@@ -3,6 +3,7 @@ layout: post
 title:  "Speak with Animals"
 date:   2014-08-24
 tags: [bard, druid, ranger, level1]
+spellmeta: [ritual]
 ---
 
 **1st-level divination (ritual)**

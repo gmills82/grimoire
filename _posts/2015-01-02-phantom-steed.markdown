@@ -3,6 +3,7 @@ layout: post
 title:  "Phantom Steed"
 date:   2015-01-02
 tags: [wizard, level3, ander]
+spellmeta: [ritual]
 ---
 
 **3rd-level illusion (ritual)**

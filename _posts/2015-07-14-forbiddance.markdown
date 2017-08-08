@@ -3,6 +3,7 @@ layout: post
 title: "Forbiddance"
 date: 2015-07-14
 tags: [cleric, level6]
+spellmeta: [ritual]
 ---
 
 **6th-level abjuration (ritual)**

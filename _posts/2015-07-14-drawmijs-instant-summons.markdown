@@ -3,6 +3,7 @@ layout: post
 title:  "Drawmij's Instant Summons"
 date:   2015-07-14
 tags: [wizard, level6]
+spellmeta: [ritual]
 ---
 
 **6th-level conjuration (ritual)**

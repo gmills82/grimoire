@@ -3,6 +3,7 @@ layout: post
 title:  "Find Familiar"
 date:   2014-08-24
 tags: [wizard, level1, glix, ander, reznor]
+spellmeta: [ritual]
 ---
 
 **1st-level conjuration (ritual)**

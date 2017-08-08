@@ -3,6 +3,7 @@ layout: post
 title: "Commune with Nature"
 date: 2015-07-14
 tags: [druid, ranger, level5]
+spellmeta: [ritual]
 ---
 
 **5th-level divination (ritual)**

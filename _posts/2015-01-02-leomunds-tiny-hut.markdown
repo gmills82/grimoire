@@ -3,6 +3,7 @@ layout: post
 title:  "Leomund's Tiny Hut"
 date:   2015-01-01
 tags: [bard, wizard, level3]
+spellmeta: [ritual]
 ---
 
 **3rd-level evocation (ritual)**

@@ -3,6 +3,7 @@ layout: post
 title: "Magic Mouth"
 date: 2015-07-30
 tags: [bard, wizard, level2]
+spellmeta: [ritual]
 ---
 
 **2nd-level illusion (ritual)**

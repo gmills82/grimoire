@@ -3,6 +3,7 @@ layout: post
 title:  "Animal Messenger"
 date:   2014-12-31
 tags: [bard, druid, ranger, level2]
+spellmeta: [ritual]
 ---
 
 **2nd-level enchantment (ritual)**

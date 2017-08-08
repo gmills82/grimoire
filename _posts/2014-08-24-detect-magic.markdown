@@ -3,7 +3,7 @@ layout: post
 title:  "Detect Magic"
 date:   2014-08-24
 tags: [bard, cleric, druid, paladin, ranger, sorcerer, wizard, level1, glix, reznor]
-spellmeta: [concentration]
+spellmeta: [concentration, ritual]
 ---
 
 **1st-level divination (ritual)**

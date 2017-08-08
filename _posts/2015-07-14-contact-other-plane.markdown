@@ -3,6 +3,7 @@ layout: post
 title: "Contact Other Plane"
 date: 2015-07-14
 tags: [warlock, wizard, level5]
+spellmeta: [ritual]
 ---
 
 **5th-level divination (ritual)**

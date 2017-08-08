@@ -3,6 +3,7 @@ layout: post
 title: "Water Breathing"
 date: 2015-07-30
 tags: [druid, ranger, sorcerer, wizard, level3, zedd]
+spellmeta: [ritual]
 ---
 
 **3rd-level transmutation (ritual)**

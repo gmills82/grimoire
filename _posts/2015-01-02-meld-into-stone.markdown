@@ -3,6 +3,7 @@ layout: post
 title:  "Meld Into Stone"
 date:   2015-01-02
 tags: [cleric, druid, level3]
+spellmeta: [ritual]
 ---
 
 **3rd-level transmutation (ritual)**

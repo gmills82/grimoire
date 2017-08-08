@@ -3,6 +3,7 @@ layout: post
 title: "Gentle Repose"
 date: 2015-07-30
 tags: [cleric, wizard, level2, ander]
+spellmeta: [ritual]
 ---
 
 **2nd-level necromancy (ritual)**
