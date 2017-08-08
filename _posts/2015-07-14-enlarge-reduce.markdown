@@ -2,7 +2,7 @@
 layout: post
 title: "Enlarge/Reduce"
 date: 2015-07-14
-tags: [sorcerer, wizard, level2, glix, zedd, ander]
+tags: [sorcerer, wizard, level2, glix, zedd, ander, reznor]
 ---
 
 **2nd-level transmutation**

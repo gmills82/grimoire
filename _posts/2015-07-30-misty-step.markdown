@@ -2,7 +2,7 @@
 layout: post
 title: "Misty Step"
 date: 2015-07-30
-tags: [sorcerer, warlock, wizard, level2, glix, ander]
+tags: [sorcerer, warlock, wizard, level2, glix, ander, reznor]
 ---
 
 **2nd-level conjuration**

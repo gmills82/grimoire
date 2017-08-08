@@ -2,7 +2,7 @@
 layout: post
 title:  "Sword Burst"
 date:   2015-12-07
-tags: [sorcerer, warlock, wizard, cantrip]
+tags: [sorcerer, warlock, wizard, cantrip, reznor]
 ---
 
 **Conjuration cantrip**

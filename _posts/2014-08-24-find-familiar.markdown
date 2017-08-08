@@ -2,7 +2,7 @@
 layout: post
 title:  "Find Familiar"
 date:   2014-08-24
-tags: [wizard, level1, glix, ander]
+tags: [wizard, level1, glix, ander, reznor]
 ---
 
 **1st-level conjuration (ritual)**

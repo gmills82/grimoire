@@ -2,7 +2,7 @@
 layout: post
 title:  "Green-Flame Blade"
 date:   2015-12-07
-tags: [sorcerer, warlock, wizard, cantrip]
+tags: [sorcerer, warlock, wizard, cantrip, reznor]
 ---
 
 **Evocation cantrip**
