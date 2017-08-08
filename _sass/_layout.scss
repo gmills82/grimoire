@@ -248,6 +248,10 @@ dl.tag-list {
 .post-link {
     display: block;
     font-size: 18px;
+
+    span {
+        color: $grey-color;
+    }
 }
 
 .class-list {

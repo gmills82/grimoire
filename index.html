@@ -20,7 +20,7 @@ layout: default
       {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
       {% for post in post_list %}
         <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}.html">{{ post.title }}</a>{%if post.spellmeta %} - {% for spellmet in post.spellmeta %} {% for meta in site.data.spellmeta %} {% if meta.name == spellmet %} {{ meta.abbreviation }} {% endif %} {% endfor %} {% endfor %} {% endif %}
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}.html">{{ post.title }}<span>{%if post.spellmeta %} [ {% for spellmet in post.spellmeta %} {% for meta in site.data.spellmeta %} {% if meta.name == spellmet %} {{ meta.abbreviation }} {% endif %} {% endfor %} {% endfor %} ] {% endif %}</span></a>
         </li>
       {% endfor %}
     </ul>
