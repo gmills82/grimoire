@@ -3,6 +3,7 @@ layout: post
 title:  "Skill Empowerment"
 date: 2017-11-16
 tags: [bard, sorcerer, wizard, level5, transmutation]
+spellmeta: [concentration]
 ---
 
 **5th-level transmutation**

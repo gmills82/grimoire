@@ -3,6 +3,7 @@ layout: post
 title:  "Wall of Light"
 date: 2017-11-16
 tags: [sorcerer, warlock, wizard, level5, evocation]
+spellmeta: [concentration]
 ---
 
 **5th-level evocation**

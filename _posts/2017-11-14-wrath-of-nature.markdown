@@ -3,6 +3,7 @@ layout: post
 title:  "Wrath of Nature"
 date:   2017-11-14
 tags: [druid, ranger, level5, evocation]
+spellmeta: [concentration]
 ---
 
 **5th-level evocation**

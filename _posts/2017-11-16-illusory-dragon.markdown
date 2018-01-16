@@ -3,6 +3,7 @@ layout: post
 title:  "Illusory Dragon"
 date:   2017-11-16
 tags: [wizard, level8, illusion]
+spellmeta: [concentration]
 ---
 
 **8th-level illusion**

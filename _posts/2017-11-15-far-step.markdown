@@ -3,6 +3,7 @@ layout: post
 title:  "Far Step"
 date: 2017-11-15
 tags: [sorcerer, warlock, wizard, level5, conjuration]
+spellmeta: [concentration, bonus]
 ---
 
 **5th-level conjuration**

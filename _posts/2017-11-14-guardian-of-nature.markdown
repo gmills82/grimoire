@@ -3,6 +3,7 @@ layout: post
 title:  "Guardian of Nature"
 date:   2017-11-14
 tags: [druid, ranger, level4, transmutation]
+spellmeta: [concentration, bonus]
 ---
 
 **4th-level transmutation**

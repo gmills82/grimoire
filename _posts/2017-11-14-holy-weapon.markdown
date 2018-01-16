@@ -3,6 +3,7 @@ layout: post
 title:  "Holy Weapon"
 date:   2017-11-14
 tags: [cleric, paladin, level5, evocation]
+spellmeta: [concentration, bonus]
 ---
 
 **5th-level evocation**

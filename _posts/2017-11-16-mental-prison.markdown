@@ -3,6 +3,7 @@ layout: post
 title:  "Mental Prison"
 date: 2017-11-16
 tags: [sorcerer, warlock, wizard, level6, illusion]
+spellmeta: [concentration]
 ---
 
 **6th-level illusion**

@@ -3,6 +3,7 @@ layout: post
 title:  "Maddening Darkness"
 date:   2017-11-19
 tags: [warlock, wizard, level8, evocation]
+spellmeta: [concentration]
 ---
 
 **8th-level evocation**

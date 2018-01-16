@@ -3,6 +3,7 @@ layout: post
 title:  "Enemies Abound"
 date: 2017-11-13
 tags: [bard, sorcerer, warlock, wizard, level3, enchantment]
+spellmeta: [concentration]
 ---
 
 **3rd-level enchantment**

@@ -3,6 +3,7 @@ layout: post
 title:  "Zephyr Strike"
 date:   2017-11-14
 tags: [ranger, level1, transmutation]
+spellmeta: [concentration, bonus]
 ---
 
 **1st-level transmutation**

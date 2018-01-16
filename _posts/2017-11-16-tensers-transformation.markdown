@@ -3,6 +3,7 @@ layout: post
 title:  "Tenser’s Transformation"
 date:   2017-11-16
 tags: [wizard, level6, transmutation]
+spellmeta: [concentration]
 ---
 
 **6th-level transmutation**

@@ -3,6 +3,7 @@ layout: post
 title:  "Cause Fear"
 date: 2017-11-13
 tags: [warlock, wizard, level1, necromancy]
+spellmeta: [concentration]
 ---
 
 **1st-level necromancy**

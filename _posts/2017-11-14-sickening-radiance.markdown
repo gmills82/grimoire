@@ -3,6 +3,7 @@ layout: post
 title:  "Sickening Radiance"
 date:   2017-11-14
 tags: [sorcerer, warlock, wizard, level4, evocation]
+spellmeta: [concentration]
 ---
 
 **4th-level evocation**

@@ -3,6 +3,7 @@ layout: post
 title:  "Shadow of Moil"
 date:   2017-11-14
 tags: [warlock, level4, necromancy]
+spellmeta: [concentration]
 ---
 
 **4th-level necromancy**

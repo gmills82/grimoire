@@ -3,6 +3,7 @@ layout: post
 title:  "Summon Greater Demon"
 date: 2017-11-14
 tags: [warlock, wizard, level4, conjuration]
+spellmeta: [concentration]
 ---
 
 **4th-level conjuration**

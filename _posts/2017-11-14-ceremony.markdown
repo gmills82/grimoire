@@ -3,6 +3,7 @@ layout: post
 title:  "Ceremony"
 date:   2017-11-14
 tags: [cleric, paladin, level1, ritual, abjuration]
+spellmeta: [ritual]
 ---
 
 **1st-level abjuration (ritual)**

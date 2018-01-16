@@ -3,6 +3,7 @@ layout: post
 title:  "Mass Polymorph"
 date:   2017-11-14
 tags: [bard, sorcerer, wizard, level9, transmutation]
+spellmeta: [concentration]
 ---
 
 **9th-level transmutation**

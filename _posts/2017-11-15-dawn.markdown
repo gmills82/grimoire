@@ -3,6 +3,7 @@ layout: post
 title:  "Dawn"
 date: 2017-11-15
 tags: [cleric, wizard, level5, evocation]
+spellmeta: [concentration]
 ---
 
 **5th-level evocation**

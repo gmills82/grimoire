@@ -3,6 +3,7 @@ layout: post
 title:  "Summon Lesser Demons"
 date: 2017-11-13
 tags: [warlock, wizard, level3, conjuration]
+spellmeta: [concentration]
 ---
 
 **3rd-level conjuration**

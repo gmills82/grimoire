@@ -3,6 +3,7 @@ layout: post
 title:  "Infernal Calling"
 date: 2017-11-16
 tags: [warlock, wizard, level5, conjuration]
+spellmeta: [concentration]
 ---
 
 **5th-level conjuration**

@@ -3,6 +3,7 @@ layout: post
 title:  "Mind Spike"
 date: 2017-11-13
 tags: [sorcerer, warlock, wizard, level2, divination]
+spellmeta: [concentration]
 ---
 
 **2nd-level divination**

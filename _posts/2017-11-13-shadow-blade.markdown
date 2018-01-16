@@ -3,6 +3,7 @@ layout: post
 title:  "Shadow Blade"
 date: 2017-11-13
 tags: [sorcerer, warlock, wizard, level2, illusion]
+spellmeta: [concentration, bonus]
 ---
 
 **2nd-level illusion**

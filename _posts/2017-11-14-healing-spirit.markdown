@@ -3,6 +3,7 @@ layout: post
 title:  "Healing Spirit"
 date:   2017-11-14
 tags: [druid, ranger, level2, conjuration]
+spellmeta: [concentration, bonus]
 ---
 
 **2nd-level conjuration**
