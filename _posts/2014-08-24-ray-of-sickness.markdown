@@ -2,7 +2,7 @@
 layout: post
 title:  "Ray of Sickness"
 date:   2014-08-24
-tags: [sorcerer, wizard, level1, ander, reznor]
+tags: [sorcerer, wizard, level1, ander]
 ---
 
 **1st-level necromancy**

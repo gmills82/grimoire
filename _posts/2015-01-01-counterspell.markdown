@@ -2,7 +2,7 @@
 layout: post
 title:  "Counterspell"
 date:   2015-01-01
-tags: [sorcerer, warlock, wizard, level3]
+tags: [sorcerer, warlock, wizard, level3, reznor]
 spellmeta: [reaction]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Blindness/Deafness"
 date:   2014-12-31
-tags: [bard, cleric, sorcerer, wizard, level2, ander]
+tags: [bard, cleric, sorcerer, wizard, level2, ander, reznor]
 ---
 
 **2nd-level necromancy**
