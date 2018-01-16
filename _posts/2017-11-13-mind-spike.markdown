@@ -2,7 +2,6 @@
 layout: post
 title:  "Mind Spike"
 date: 2017-11-13
-sources: [Xanathar.162]
 tags: [sorcerer, warlock, wizard, level2, divination]
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Danse Macabre"
 date: 2017-11-15
-sources: [Xanathar.153]
 tags: [warlock, wizard, level5, necromancy]
 ---
 

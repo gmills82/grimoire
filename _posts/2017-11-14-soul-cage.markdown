@@ -2,7 +2,6 @@
 layout: post
 title:  "Soul Cage"
 date:   2017-11-14
-sources: [Xanathar.165]
 tags: [warlock, wizard, level6, necromancy]
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Wall of Light"
 date: 2017-11-16
-sources: [Xanathar.170]
 tags: [sorcerer, warlock, wizard, level5, evocation]
 ---
 

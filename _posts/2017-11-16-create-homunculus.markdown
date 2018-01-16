@@ -2,7 +2,6 @@
 layout: post
 title:  "Create Homunculus"
 date: 2017-11-16
-sources: [Xanathar.152]
 tags: [wizard, level6, transmutation]
 ---
 

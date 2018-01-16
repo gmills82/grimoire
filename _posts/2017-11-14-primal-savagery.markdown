@@ -2,7 +2,6 @@
 layout: post
 title:  "Primal Savagery"
 date:   2017-11-14
-sources: [Xanathar.163]
 tags: [druid, cantrip, transmutation]
 ---
 

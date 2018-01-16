@@ -2,7 +2,6 @@
 layout: post
 title:  "Mighty Fortress"
 date:   2017-11-14
-sources: [Xanathar.161]
 tags: [wizard, level8, conjuration]
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Skill Empowerment"
 date: 2017-11-16
-sources: [Xanathar.165]
 tags: [bard, sorcerer, wizard, level5, transmutation]
 ---
 
